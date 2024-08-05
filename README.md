@@ -39,8 +39,8 @@ Currently working as a Full-time as a Animator / Freelance.
 ![Video Editing](https://img.shields.io/badge/Video%20Editing-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)
 ![Sport Athletes Activities](https://img.shields.io/badge/Sport%20Athletes%20Activities-34A853.svg?style=for-the-badge&logo=sport&logoColor=white)
 
-<br><br>
+<br>
 <!-- card -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=darshandari&theme=dark&border_radius=20&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=darshandari&theme=dark&border_radius=20&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)-->
 
 </details>
