@@ -14,21 +14,24 @@ Currently working as a Full-time as a Animator / Freelance.
 <a href="https://www.instagram.com/darshandari_/" target="_blank"><img src="https://img.shields.io/badge/-darshandari_-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
 <a href="https://www.upwork.com/freelancers/~01d141435fdeb39fb8" target="_blank"><img src="https://img.shields.io/badge/Upwork-6F6F6F.svg?style=flat&logo=upwork&logoColor=white" alt="Upwork Badge"></a>
 <br><br>
+
 ## 🌱 Growing Area :  
-<br>
+
 - 🔭 <b>Currently working on:</b> Toom boom Harmony, Unity.
 - 💻 <b>Getting better at:</b>  Adobe After Effects, Blender & Maya.
 - 🚀 <b>Exploring:</b> New Freelance Work.
 - 💬 <b>Ask me about:</b> Game Animation Related.
-<br>
+
+
 ## 💼 My Profession : 
-<br>
+
 ### Hard Skills :
 ![Spine Pro](https://img.shields.io/badge/Spine%20Pro-000000.svg?style=for-the-badge&logo=spine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-<br>
+
+
 ### Extra Skills :
 ![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Web Developing](https://img.shields.io/badge/Web%20Developing-4285F4.svg?style=for-the-badge&logo=googlechrome&logoColor=white)
