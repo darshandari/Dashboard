@@ -15,7 +15,7 @@ My name is Darshan Dari and I'm a Game Animator. I'm from India, currently worki
 - 💻 <b>Getting better at:</b>  Adobe After Effects, Blender & Maya.
 - 🚀 <b>Exploring:</b> New Freelance Work.
 - 💬 <b>Ask me about:</b> Game Animation Related.
-- 📫 <b>Reach me out:</b> Sent a mail at href="mailto:darshandari07@gmail.com">darshandari07@gmail.com</a>
+- 📫 <b>Reach me out:</b> Shoot a mail at <a href="mailto:darshandari07@gmail.com" target="_blank">darshandari07@gmail.com</a>
 
 ## 💼 Tech Stacks 
 
