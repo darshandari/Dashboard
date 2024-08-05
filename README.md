@@ -1,16 +1,11 @@
 ## Hello folks! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-My name is Darshan Dari and I'm a Game Animator. I'm from India, currently working as a Full-time as a Animator / Freelance.
+My name is Darshan Dari and I'm a Game Animator with over 3+ years of experience in creating both 2D and 3D in-game animations, as well as game creatives such as ads. I have been working at a gaming company where 
+I continually expand my skills and contribute my knowledge. My work is characterized by a unique imagination, transforming visions into interactive masterpieces. 
+Currently working as a Full-time as a Animator / Freelance.
 <br><br>
 
-## Things you should know
-
-- 🔭 <b>Currently working on:</b> Toom boom Harmony, Unity.
-- 💻 <b>Getting better at:</b>  Adobe After Effects, Blender & Maya.
-- 🚀 <b>Exploring:</b> New Freelance Work.
-- 💬 <b>Ask me about:</b> Game Animation Related.
-- 📫 <b>Reach me out:</b> Shoot a mail at 
-
+📫 <b>Reach me out:</b> Connect Here : 
 
 <a href="mailto:darshandari07@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-darshandari07-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Mail Badge"></a>
 <a href="https://in.linkedin.com/in/dari-darshan-g-062237168" target="_blank"><img src="https://img.shields.io/badge/-darshandari-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" alt="Linkedin Badge"></a>
@@ -19,6 +14,12 @@ My name is Darshan Dari and I'm a Game Animator. I'm from India, currently worki
 <a href="https://www.instagram.com/darshandari_/" target="_blank"><img src="https://img.shields.io/badge/-darshandari_-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
 <br><br>
 
+## Things you should know
+
+- 🔭 <b>Currently working on:</b> Toom boom Harmony, Unity.
+- 💻 <b>Getting better at:</b>  Adobe After Effects, Blender & Maya.
+- 🚀 <b>Exploring:</b> New Freelance Work.
+- 💬 <b>Ask me about:</b> Game Animation Related.
 
 ## 💼 Tech Stacks 
 
