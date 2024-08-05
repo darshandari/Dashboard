@@ -14,14 +14,14 @@ Currently working as a Full-time as a Animator / Freelance.
 <a href="https://www.instagram.com/darshandari_/" target="_blank"><img src="https://img.shields.io/badge/-darshandari_-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
 <br><br>
 
-## Things you should know
+## 🌱 Growing Area :  
 
 - 🔭 <b>Currently working on:</b> Toom boom Harmony, Unity.
 - 💻 <b>Getting better at:</b>  Adobe After Effects, Blender & Maya.
 - 🚀 <b>Exploring:</b> New Freelance Work.
 - 💬 <b>Ask me about:</b> Game Animation Related.
 
-## 💼 Tech Stacks 
+## 💼 My Profession : 
 
 ### Hard Skills :
 ![Spine Pro](https://img.shields.io/badge/Spine%20Pro-000000.svg?style=for-the-badge&logo=spine&logoColor=white)
