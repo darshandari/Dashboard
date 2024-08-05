@@ -22,7 +22,8 @@ Currently working as a Full-time as a Animator / Freelance.
 - 🚀 <b>Exploring:</b> New Freelance Work.
 - 💬 <b>Ask me about:</b> Game Animation Related.
 
-<br><br>
+<br>
+
 ## 💼 My Profession : 
 
 ### Hard Skills :
