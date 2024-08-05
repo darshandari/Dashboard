@@ -21,7 +21,8 @@ Currently working as a Full-time as a Animator / Freelance.
 - 💻 <b>Getting better at:</b>  Adobe After Effects, Blender & Maya.
 - 🚀 <b>Exploring:</b> New Freelance Work.
 - 💬 <b>Ask me about:</b> Game Animation Related.
-<br>
+
+
 ## 💼 My Profession : 
 
 ### Hard Skills :
