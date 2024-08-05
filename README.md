@@ -13,7 +13,8 @@ Currently working as a Full-time as a Animator / Freelance.
 <a href="https://www.behance.net/daridarshan" target="_blank"><img src="https://img.shields.io/badge/-daridarshan-1769ff?style=flat&labelColor=1769ff&logo=behance&logoColor=white" alt="Behance Badge"></a>
 <a href="https://www.instagram.com/darshandari_/" target="_blank"><img src="https://img.shields.io/badge/-darshandari_-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
 <a href="https://www.upwork.com/freelancers/~01d141435fdeb39fb8" target="_blank"><img src="https://img.shields.io/badge/Upwork-6F6F6F.svg?style=flat&logo=upwork&logoColor=white" alt="Upwork Badge"></a>
-<br><br>
+
+
 
 ## 🌱 Growing Area :  
 
@@ -21,6 +22,7 @@ Currently working as a Full-time as a Animator / Freelance.
 - 💻 <b>Getting better at:</b>  Adobe After Effects, Blender & Maya.
 - 🚀 <b>Exploring:</b> New Freelance Work.
 - 💬 <b>Ask me about:</b> Game Animation Related.
+
 
 ## 💼 My Profession : 
 
