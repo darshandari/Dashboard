@@ -3,19 +3,22 @@
 My name is Darshan Dari and I'm a Game Animator. I'm from India, currently working as a Full-time as a Animator / Freelance.
 <br><br>
 
-<a href="mailto:darshandari07@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-darshandari07-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Mail Badge"></a>
-<a href="https://in.linkedin.com/in/dari-darshan-g-062237168" target="_blank"><img src="https://img.shields.io/badge/-darshandari-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" alt="Linkedin Badge"></a>
-<a href="https://www.artstation.com/darshandari" target="_blank"><img src="https://img.shields.io/badge/-darshandari-0d1017?style=flat&labelColor=0d1017&logo=artstation&logoColor=white" alt="Artstation Badge"></a>
-<a href="https://www.behance.net/daridarshan" target="_blank"><img src="https://img.shields.io/badge/-daridarshan-1769ff?style=flat&labelColor=1769ff&logo=behance&logoColor=white" alt="Behance Badge"></a>
-<a href="https://www.instagram.com/darshandari_/" target="_blank"><img src="https://img.shields.io/badge/-darshandari_-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
-<br><br>
 ## Things you should know
 
 - 🔭 <b>Currently working on:</b> Toom boom Harmony, Unity.
 - 💻 <b>Getting better at:</b>  Adobe After Effects, Blender & Maya.
 - 🚀 <b>Exploring:</b> New Freelance Work.
 - 💬 <b>Ask me about:</b> Game Animation Related.
-- 📫 <b>Reach me out:</b> Shoot a mail at <a href="mailto:darshandari07@gmail.com" target="_blank">darshandari07@gmail.com</a>
+- 📫 <b>Reach me out:</b> Shoot a mail at 
+
+
+<a href="mailto:darshandari07@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-darshandari07-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Mail Badge"></a>
+<a href="https://in.linkedin.com/in/dari-darshan-g-062237168" target="_blank"><img src="https://img.shields.io/badge/-darshandari-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" alt="Linkedin Badge"></a>
+<a href="https://www.artstation.com/darshandari" target="_blank"><img src="https://img.shields.io/badge/-darshandari-0d1017?style=flat&labelColor=0d1017&logo=artstation&logoColor=white" alt="Artstation Badge"></a>
+<a href="https://www.behance.net/daridarshan" target="_blank"><img src="https://img.shields.io/badge/-daridarshan-1769ff?style=flat&labelColor=1769ff&logo=behance&logoColor=white" alt="Behance Badge"></a>
+<a href="https://www.instagram.com/darshandari_/" target="_blank"><img src="https://img.shields.io/badge/-darshandari_-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
+<br><br>
+
 
 ## 💼 Tech Stacks 
 
